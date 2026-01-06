@@ -1,0 +1,37 @@
+{
+  "embed_color": 10040217,
+  "ticket_title": "TICKET",
+  "ticket_description": "Central de Atendimento - STAR ROLEPLAY",
+  "open_button_name": "ABRIR TICKET",
+  "limit_one_ticket_per_user": true,
+  "category_id": "COLOQUE_ID_DA_CATEGORIA",
+  "ticket_categories": {
+    "financeiro": {
+      "label": "🤑 FINANCEIRO",
+      "description": "Pagamentos e doações"
+    },
+    "corps_fac": {
+      "label": "🧧 CORPS/FAC",
+      "description": "Corporações e facções"
+    },
+    "suporte": {
+      "label": "🎫 SUPORTE",
+      "description": "Ajuda geral"
+    },
+    "criador_conteudo": {
+      "label": "🖥 CRIADOR DE CONTEÚDO",
+      "description": "Parcerias"
+    },
+    "mods": {
+      "label": "💉 MODS",
+      "description": "Arquivos do jogo (mods)"
+    }
+  },
+  "logs_channels": {
+    "financeiro": "ID_LOG_FINANCEIRO",
+    "corps_fac": "ID_LOG_CORPS",
+    "suporte": "ID_LOG_SUPORTE",
+    "criador_conteudo": "ID_LOG_CRIADOR",
+    "mods": "ID_LOG_MODS"
+  }
+}
