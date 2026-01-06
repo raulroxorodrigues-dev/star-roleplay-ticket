@@ -94,7 +94,7 @@ client.on(Events.InteractionCreate, async interaction => {
   }
 });
 
-console.log("TOKEN EXISTE?", !!process.env.TOKEN);
 client.login(process.env.TOKEN);
+
 
 
